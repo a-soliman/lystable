@@ -1,0 +1,14 @@
+/*PreFixing*/
+* {
+	padding: 0;
+	margin: 0;
+}
+a:hover {
+	text-decoration: none;
+}
+ul {
+	list-style-type: none;
+}
+li {
+	display: inline-block;
+}
