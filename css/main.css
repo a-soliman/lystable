@@ -165,3 +165,12 @@ p {
 .skills img {
 	max-width: 100px;
 }
+/*contact*/
+.contacts {
+	background-color: #1a9ed6;
+	padding: 40px 0;
+	text-align: center;
+}
+.contacts img {
+	display: inline-block;
+}
