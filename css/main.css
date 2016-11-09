@@ -139,3 +139,14 @@ p {
 	color: #fca210;
 	text-align: right;
 }
+.about {
+	background-image: url(../img/about.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding: 150px 0;
+	color: #fff;
+}
+.about h3 {
+	letter-spacing: 2px;
+    line-height: 1.5;
+}
