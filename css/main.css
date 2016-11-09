@@ -130,3 +130,12 @@ p {
 }
 .item h4 {}
 .item p {}
+/*Panner*/
+.panner {
+	padding: 70px 0;
+	background-image: url(../img/panner.png);
+	background-size: cover;
+	padding: 200px 0;
+	color: #fca210;
+	text-align: right;
+}
