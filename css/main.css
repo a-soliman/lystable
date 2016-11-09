@@ -103,3 +103,30 @@ p {
 	padding-top: 8px;
 	padding-bottom: 8px;
 }
+/*WhyMe*/
+.whyMe, .features {
+	padding: 110px 0;
+}
+.title {
+	display: inline-block;
+	margin-bottom: 50px;
+}
+.title h3 {
+	padding: 10px 10px;
+	color: #505662;
+	border-bottom: 3px solid #505662;
+}
+.item {
+	padding: 50px 15px;
+}
+.item img {
+	max-width: 70px;
+	float: left;
+    margin-right: 20px;
+}
+.item .item-text {
+	display: inline-block;
+	width: 60%;
+}
+.item h4 {}
+.item p {}
