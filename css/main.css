@@ -206,3 +206,8 @@ footer a:hover {
 		display: none;
 	}
 }
+@media(max-width: 530px) {
+	.intro .container {
+		padding: 0;
+	}
+}
