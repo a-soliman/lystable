@@ -174,3 +174,24 @@ p {
 .contacts img {
 	display: inline-block;
 }
+
+/*Footer*/
+footer {
+	background-color: #214958;
+	padding: 100px 0 270px 0;
+}
+footer ul {
+	margin-right: 25px;
+}
+footer li {
+	display: block;
+    border-bottom: 1px solid #829da3;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+footer a {
+	color: #8ba0a8
+}
+footer a:hover {
+	color: #3EB38A;
+}
