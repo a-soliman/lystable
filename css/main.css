@@ -72,3 +72,34 @@ p {
 	margin-bottom: 0;
 	font-size: 24px;
 }
+/*Nav*/
+.navbar {
+	position: absolute;
+    top: 50px;
+    width: 100%;
+    color: #fff;
+}
+.navbar img {
+	float: left;
+	max-width: 150px;
+}
+.navbar ul {
+    text-align: right;
+}
+.navbar li {
+}
+.navbar li a{
+	padding: 10px 30px;
+	border-radius: 5px;
+}
+.navbar li:last-child {
+	margin-right: 0;
+}
+.navbar .active {
+	background-color: #214958;
+	border: 1px solid #214958;
+}
+.navbar .active:hover {
+	padding-top: 8px;
+	padding-bottom: 8px;
+}
