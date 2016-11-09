@@ -201,3 +201,8 @@ footer a:hover {
 		display: none;
 	}
 }
+@media(max-width: 770px) {
+	.intro img {
+		display: none;
+	}
+}
