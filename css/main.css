@@ -195,3 +195,9 @@ footer a {
 footer a:hover {
 	color: #3EB38A;
 }
+
+@media(max-width: 930px) {
+	.navbar ul {
+		display: none;
+	}
+}
