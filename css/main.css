@@ -35,6 +35,7 @@ p {
 	font-family: 'BenchNine', sans-serif;
 	font-size: 18px;
 }
+
 /*INTRO*/
 .intro {
 	background-color: #1a9ed6;
@@ -130,6 +131,7 @@ p {
 }
 .item h4 {}
 .item p {}
+
 /*Panner*/
 .panner {
 	padding: 70px 0;
@@ -165,6 +167,7 @@ p {
 .skills img {
 	max-width: 100px;
 }
+
 /*contact*/
 .contacts {
 	background-color: #1a9ed6;
@@ -195,6 +198,9 @@ footer a {
 footer a:hover {
 	color: #3EB38A;
 }
+
+
+
 
 @media(max-width: 930px) {
 	.navbar ul {
