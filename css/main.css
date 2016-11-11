@@ -47,6 +47,9 @@ p {
 .navbar.fixed-nav img {
 	max-width: 120px;
 }
+.navbar.fixed-nav a:hover {
+	color: #3eb38a;
+}
 
 /*INTRO*/
 .intro {
