@@ -1,5 +1,5 @@
 $(document).ready(function() {
-
+	
 	//Nav Bar
 	var introHeight = $('.intro').height()
 	
@@ -27,6 +27,7 @@ $(document).ready(function() {
 			});
 		});
 	}
+
 	//skills
 	var image = $('.skills ul img')
 	var src = ''
@@ -43,5 +44,4 @@ $(document).ready(function() {
 
 		$(this).attr('src', grayScale)
 	})
-
 });
