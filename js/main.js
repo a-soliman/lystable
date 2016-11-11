@@ -27,5 +27,21 @@ $(document).ready(function() {
 			});
 		});
 	}
+	//skills
+	var image = $('.skills ul img')
+	var src = ''
+	
+	image.mouseenter(function() {
+		src =$(this).attr('src')
+		var colored = src.replace('tools','colored') 
+		$(this).attr('src', colored)
+	})
+
+	image.mouseleave(function() {
+		src = $(this).attr('src')
+		var grayScale = src.replace('colored', 'tools')
+
+		$(this).attr('src', grayScale)
+	})
 
 });
