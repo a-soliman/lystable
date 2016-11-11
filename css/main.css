@@ -35,7 +35,15 @@ p {
 	font-family: 'BenchNine', sans-serif;
 	font-size: 18px;
 }
-
+.navbar.fixed-nav {
+	position: fixed;
+	top: 0;
+	width: 100%;
+	z-index: 10;
+	background-color: #fff;
+	color: #597782;
+	padding: 15px 0;
+}
 
 /*INTRO*/
 .intro {
