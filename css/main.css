@@ -36,6 +36,7 @@ p {
 	font-size: 18px;
 }
 
+
 /*INTRO*/
 .intro {
 	background-color: #1a9ed6;
@@ -140,6 +141,14 @@ p {
 	padding: 200px 0;
 	color: #fca210;
 	text-align: right;
+}
+.panner .text {
+	background-color: rgba(31, 31, 31, 0.69);
+    padding: 30px 20px;
+    border-radius: 35px;
+    border-right: 4px solid #ed9922;
+    border-bottom: 4px solid #ed9922;
+    font-family: 'Alegreya Sans SC', sans-serif;
 }
 .about {
 	background-image: url(../img/about.png);
