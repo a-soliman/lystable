@@ -44,6 +44,9 @@ p {
 	color: #597782;
 	padding: 15px 0;
 }
+.navbar.fixed-nav img {
+	max-width: 120px;
+}
 
 /*INTRO*/
 .intro {
